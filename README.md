@@ -1,2 +1,2 @@
-# runhengzuo.github.io
+# runjtu.github.io
 personal research collections

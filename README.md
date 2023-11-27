@@ -1,2 +1,2 @@
-# ZUO RUNHENG (SJTU graduate)
+# ZUO RUNHENG 
 personal research collections

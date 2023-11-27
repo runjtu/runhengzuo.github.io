@@ -15,18 +15,9 @@ Education
 * M.S. in Mechanical Engineering, Shanghai Jiao Tong University, 2026 (expected)
 * Ph.D in Robotics, GitHub University, 2031 (expected)
 
-Work experience
-======
-* Fall 2021: Exchange Student
-  * National Taiwan University
-  * Duties included: Machine Learning
-  * Supervisor: Professor Lin
-  
-  
-* Summer 2022: Visiting Student
-  * National University of Singapore
-  * Duties included: Data Mining, Machine Learning
-  * Supervisor: Professor Lee
+
+cvurl: 'http://runjtu.github.io/files/RunhengZuo.pdf'
+check this link for more details
 
 
 Skills
